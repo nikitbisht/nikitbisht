@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikit Singh Bisht</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400"scr="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" scr="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitbisht&label=Profile%20views&color=0e75b6&style=flat" alt="nikitbisht" /> </p>
 
 <h3 align="left">Connect with me:</h3>
