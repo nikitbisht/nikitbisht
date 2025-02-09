@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a 2nd year college student<br>i'm currently learning DSA and Web development<br>i'm a passionate software engineer form India
+i'm a 3rd year college student<br>i'm currently learning DSA and Machine Learning<br>i'm a passionate software engineer form India
 
 
 ## 🌐 Socials:
